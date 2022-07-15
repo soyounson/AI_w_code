@@ -1,8 +1,7 @@
 # 💻 ML_w_code
 Machine Learning with code. First, study ML and implement ML code in Python to understand 100 %. 
 
-
-### ☺︎ Contents
+### ☺︎ Table of Contents
 - [x] 01. [Support vector machines (SVM)]()
 - [ ] 02. 
 - [ ] 03. 
