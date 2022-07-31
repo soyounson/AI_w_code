@@ -4,7 +4,7 @@ Machine Learning with code. First, study ML and implement ML code in Python to u
 
 -----------------------------------------------------------------------
 ### ☾ Table of contents
-- [x] 01. [Linear Regression](https://github.com/soyounson/ML_w_code/blob/main/01_Linear_Regression/09_MML_Linear_regression.ipynb)
+- [x] 01. [Linear Regression (code)](https://github.com/soyounson/ML_w_code/blob/main/01_Linear_Regression/09_MML_Linear_regression.ipynb) | [Blog: Linear Regression](https://soyounson.github.io/MML-RL/)
 - [ ] 02. 
 - [ ] 03. 
 - [ ] 04. 
