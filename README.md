@@ -20,12 +20,3 @@ Please check environments and requirements before you start to run our sample co
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-#### ☻ 
->  updating ...
-
-```
-(base) ist-xxx-xx: ~ $ 
-```
-
-
-
