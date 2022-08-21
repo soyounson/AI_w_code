@@ -1,4 +1,4 @@
-# 💻 ML_w_code
+# 💻 AI_w_code
 Machine Learning with code. First, study ML and implement ML code in Python to understand 100 %. 
 
 
